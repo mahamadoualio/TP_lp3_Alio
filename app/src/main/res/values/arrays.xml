@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+    <string-array name="tab_formation">
+    <item >  Services reseaux    </item>
+    <item >  Informatique        </item>
+    <item >  Telecoms            </item>
+    <item >  Marketing           </item>
+    <item >  MBA                 </item>
+    <item >  Commerces           </item>
+    <item >  Gestion             </item>
+    <item >  Maintenance         </item>
+    <item >  Droit des Tics      </item>
+    <item >  Ressources humaines </item>
+    <item >  Logistique          </item>
+    </string-array>
+
+    <string-array name="tab_details_formation">
+        <item >  Anglais,Cisco,Bases de données,Reseaux mobile. Admin Sys   </item>
+        <item >  Algo,JavaEE,XML,Oracle,Base de données,Architecture des appli,Android. Developpeur,Analyste programmeur     </item>
+        <item >  Telecoms            </item>
+        <item >  Marketing           </item>
+        <item >  MBA                 </item>
+        <item >  Commerces           </item>
+        <item >  Gestion             </item>
+        <item >  Maintenance         </item>
+        <item >  Droit des Tics      </item>
+        <item >  Ressources humaines </item>
+        <item >  Logistique          </item>
+
+    </string-array>>
+
+
+
+
+
+
+</resources>

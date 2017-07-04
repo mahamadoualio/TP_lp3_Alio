@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<relative_layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="controller.myuniversity.com.myuniversity.MenuActivity">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Application Mobile"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="28dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="331dp"
+        android:layout_height="52dp"
+        android:text="consultation et facture"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="329dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="333dp"
+        android:layout_height="49dp"
+        android:text="Patient"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="111dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="159dp"
+        android:layout_height="45dp"
+        android:text="Presentation"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="404dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="333dp"
+        android:layout_height="55dp"
+        android:text="Rendez vous"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="186dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="331dp"
+        android:layout_height="51dp"
+        android:text="liste facture et consultation"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="261dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="158dp"
+        android:layout_height="45dp"
+        android:text="Aide"
+        tools:layout_editor_absoluteX="198dp"
+        tools:layout_editor_absoluteY="404dp" />
+</relative_layout>

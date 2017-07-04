@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyUniversity</string>
+    <string name="connection">Connection</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="save">Save</string>
+    <string name="home">Home</string>
+    <string name="formation">Formation</string>
+    <string name="mark">Mark</string>
+    <string name="university">University</string>
+    <string name="help">Help</string>
+    <string name="error_field">Error field, try again </string>
+    <string name="error_save">Error to save user</string>
+    <string name="succes_save">User registered with succes</string>
+    <string name="error_connetion">Error connection, check your network</string>
+    <string name="welcome">Welcome</string>
+    <string name="contact">www.esmt.sn</string>
+    <string name="about">about</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="degrees">Degrees</string>
+    <string name="error_parameters">Parameters are failed</string>
+    <string name="wainting">Wait please ...</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_university">Map</string>
+
+
+</resources>
